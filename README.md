@@ -7,7 +7,6 @@
 
 ChatGPT镜像站（ChatGPT Mirror）是指通过复制原始网站内容和结构，创建的备用网站。其主要目的是在原始网站无法访问时，提供相同或类似的服务和信息。
 
-
 ## 国内ChatGPT免费中文版镜像网站
 
 - [https://www.yixiaai.com/](https://www.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
