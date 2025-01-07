@@ -18,6 +18,9 @@ ChatGPT 免费 镜像站（ChatGPT Free Mirror）是指通过复制原始网站�
 - [https://ai.lansejingyu.com/](https://cgs.skybyte.me/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
 - [https://lanjing.ai/](https://c1ns.cn/chat/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
+## 友情链接
+- [https://onlyguo.github.io/chatgpt-mirror/](https://onlyguo.github.io/chatgpt-mirror/)
+
 ## 国内自研大模型汇总
 
 - [https://yiyan.baidu.com/](https://yiyan.baidu.com/) - 文心一言，百度出品
