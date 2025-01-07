@@ -8,15 +8,15 @@
 
 ## 什么是 ChatGPT 镜像网站？
 
-ChatGPT镜像站（ChatGPT Mirror）是指通过复制原始网站内容和结构，创建的备用网站。其主要目的是在原始网站无法访问时，提供相同或类似的服务和信息。
+ChatGPT 免费 镜像站（ChatGPT Free Mirror）是指通过复制原始网站内容和结构，创建的备用网站。其主要目的是在原始网站无法访问时，提供相同或类似的服务和信息。
 
 ## 国内ChatGPT免费中文版镜像网站
 
-- [https://www.yixiaai.com/](https://www.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
-- [https://chat.lify.vip/](https://chat.lify.vip/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
-- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
-- [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
-- [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
+- [https://link.fuckicoding.com/](https://link.fuckicoding.com) - **Lite-GPT**，目前为止功能最全的GPT镜像（支持真插件，非逆向的4-all），且带有手机APP，支持画图、搜索、PDF、Word、唱歌、o1 Model、bilibili等，社区分为友好~
+- [https://reurl.cc/6jGK2V](https://reurl.cc/6jGK2V) **ChatGPT镜像网站**，运营2年半，支持多人对话，拥有聊天室功能互动性强。
+- [https://newpc.icoding.link/?debug=true](https://newpc.icoding.ink/?debug=true) - **免费ChatGPT镜像**，可以免费发布自己的GPT进行营利，也可以使用别人的GPT，内置AI Studio， 会敲代码的可以在上面深度定制。运营2年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- [https://ai.lansejingyu.com/](https://cgs.skybyte.me/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
+- [https://lanjing.ai/](https://c1ns.cn/chat/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
 ## 国内自研大模型汇总
 
